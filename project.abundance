@@ -128,8 +128,8 @@
     {
       "atomType": "Rotate",
       "name": "Rotate",
-      "x": 0.37966379663796634,
-      "y": 0.3673163418290855,
+      "x": 0.4418604651162791,
+      "y": 0.2857142857142857,
       "uniqueID": "dd1dea17-2751-4f04-a246-721fad9ccb90",
       "ioValues": [
         {
@@ -167,8 +167,8 @@
     {
       "atomType": "Move",
       "name": "Move",
-      "x": 0.47560475604756053,
-      "y": 0.40929535232383807,
+      "x": 0.6341681574239714,
+      "y": 0.3198757763975155,
       "uniqueID": "b8d2175d-54cf-47d5-ad54-182d4ae68505",
       "ioValues": [
         {
@@ -227,8 +227,8 @@
     {
       "atomType": "Rectangle",
       "name": "Rectangle",
-      "x": 0.18491184911849118,
-      "y": 0.6731634182908546,
+      "x": 0.2334525939177102,
+      "y": 0.7204968944099379,
       "uniqueID": "6766b732-c709-4a99-a6c4-9b32fa326917",
       "ioValues": [
         {
@@ -244,8 +244,8 @@
     {
       "atomType": "Move",
       "name": "Move",
-      "x": 0.26281262812628126,
-      "y": 0.7391304347826086,
+      "x": 0.35509838998211096,
+      "y": 0.813664596273292,
       "uniqueID": "e464380a-42d3-484b-bb6b-33d44cfcda05",
       "ioValues": [
         {
@@ -265,8 +265,8 @@
     {
       "atomType": "Rotate",
       "name": "Rotate",
-      "x": 0.34481344813448134,
-      "y": 0.7256371814092955,
+      "x": 0.48389982110912344,
+      "y": 0.7298136645962733,
       "uniqueID": "65a0d1f0-4f91-44b7-8a2e-3e3f58fa86e8",
       "ioValues": [
         {
@@ -275,19 +275,21 @@
         },
         {
           "name": "y-axis degrees",
-          "ioValue": 0
+          "ioValue": 0,
+          "currentEquation": "0"
         },
         {
           "name": "z-axis degrees",
-          "ioValue": 0
+          "ioValue": 0,
+          "currentEquation": "0"
         }
       ]
     },
     {
       "atomType": "Move",
       "name": "Move",
-      "x": 0.4337843378433784,
-      "y": 0.7301349325337332,
+      "x": 0.6869409660107334,
+      "y": 0.6428571428571428,
       "uniqueID": "c13a01d1-585c-4b5b-92d6-1cc6f5f7cd16",
       "ioValues": [
         {
@@ -296,12 +298,13 @@
         },
         {
           "name": "yDist",
-          "ioValue": 1600,
-          "currentEquation": "1600"
+          "ioValue": 0,
+          "currentEquation": "0"
         },
         {
           "name": "zDist",
-          "ioValue": 0
+          "ioValue": 0,
+          "currentEquation": "0"
         }
       ]
     }
