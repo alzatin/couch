@@ -128,13 +128,14 @@
     {
       "atomType": "Rotate",
       "name": "Rotate",
-      "x": 0.4418604651162791,
-      "y": 0.2857142857142857,
+      "x": 0.4350282485875706,
+      "y": 0.3012422360248447,
       "uniqueID": "dd1dea17-2751-4f04-a246-721fad9ccb90",
       "ioValues": [
         {
           "name": "x-axis degrees",
-          "ioValue": 90
+          "ioValue": 90,
+          "currentEquation": "90"
         },
         {
           "name": "y-axis degrees",
@@ -167,8 +168,8 @@
     {
       "atomType": "Move",
       "name": "Move",
-      "x": 0.6341681574239714,
-      "y": 0.3198757763975155,
+      "x": 0.6424535916061339,
+      "y": 0.25155279503105593,
       "uniqueID": "b8d2175d-54cf-47d5-ad54-182d4ae68505",
       "ioValues": [
         {
@@ -177,19 +178,21 @@
         },
         {
           "name": "yDist",
-          "ioValue": 0
+          "ioValue": 40,
+          "currentEquation": "40"
         },
         {
           "name": "zDist",
-          "ioValue": 0
+          "ioValue": 100,
+          "currentEquation": "100"
         }
       ]
     },
     {
       "atomType": "Move",
       "name": "Move",
-      "x": 0.29192291922919233,
-      "y": 0.3148425787106447,
+      "x": 0.29620661824051653,
+      "y": 0.30434782608695654,
       "uniqueID": "ac9a8ce3-48a8-43d2-8d89-7d11c97f7aee",
       "ioValues": [
         {
@@ -265,8 +268,8 @@
     {
       "atomType": "Rotate",
       "name": "Rotate",
-      "x": 0.48389982110912344,
-      "y": 0.7298136645962733,
+      "x": 0.4853333333333334,
+      "y": 0.7360248447204969,
       "uniqueID": "65a0d1f0-4f91-44b7-8a2e-3e3f58fa86e8",
       "ioValues": [
         {
@@ -275,13 +278,11 @@
         },
         {
           "name": "y-axis degrees",
-          "ioValue": 0,
-          "currentEquation": "0"
+          "ioValue": 0
         },
         {
           "name": "z-axis degrees",
-          "ioValue": 0,
-          "currentEquation": "0"
+          "ioValue": 0
         }
       ]
     },
